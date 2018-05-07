@@ -11,6 +11,7 @@ class prueba extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+    /*
     public function index(Request $request)
     {
         $id = $request->id == 1 ? "Pass" : "NoPass";
@@ -18,8 +19,7 @@ class prueba extends Controller
         
         return "FOTO MOSTRADA...";
     }
-
-
+    */
     /**
      * Show the form for creating a new resource.
      *
